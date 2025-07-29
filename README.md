@@ -4,7 +4,7 @@
 
 # Welcome to My GitHub! 👨‍💻✨
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7BB36&center=true&vCenter=true&width=600&lines=Welcome+to+My+Github+Profile;I%27+m+Working+On+Building+Up+My+Skills;I+Like+Code%2C+Gaming%2C+and+Many+More)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7BB36&center=true&vCenter=true&width=600&lines=Welcome+to+My+Github+Profile;I%27m+Working+On+Building+Up+My+Skills;I+Like+Code%2C+Gaming%2C+and+Many+More)
 
 ![Banner](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
