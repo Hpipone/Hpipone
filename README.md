@@ -66,7 +66,7 @@ Here are some quick facts about me:
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=highcontrast&hide_border=true)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hpipone&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET&wantAll=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hpipone&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 ### 🐍 GitHub Contribution Snake
 ![Contribution Snake Animation](https://hpipone.github.io/contrib-snake/snake.svg)
