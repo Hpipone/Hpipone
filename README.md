@@ -51,8 +51,7 @@ Here are some quick facts about me:
 ### Monitoring Microservice or Service
 - ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 - ![Grafana](https://img.shields.io/badge/Grafana-FFA500.svg?style=for-the-badge&logo=grafana&logoColor=white)
-- ![Promtail](https://img.shields.io/badge/Promtail-F9C322.svg?style=for-the-badge&logo=promtail&logoColor=white)
-- Loki
+- ![Promtail](https://img.shields.io/badge/Promtail&Loki-F15B2A.svg?style=for-the-badge&logo=loki&logoColor=white)
 - ELK Stack
 
 ### My Web Infra and Network
