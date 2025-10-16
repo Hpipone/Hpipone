@@ -55,10 +55,10 @@ Here are some quick facts about me:
 - ELK Stack
 
 ### My Web Infra and Network
-- ![Nginx](https://img.shields.io/badge/Nginx-2496ED.svg?style=for-the-badge&logo=nginx&logoColor=white)
-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-2496ED.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-- ![OPNSense](https://img.shields.io/badge/OPNSense-2496ED.svg?style=for-the-badge&logo=opnsense&logoColor=white)
-- ![Redis](https://img.shields.io/badge/Redis-2496ED.svg?style=for-the-badge&logo=redisr&logoColor=white)
+- ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+- ![OPNSense](https://img.shields.io/badge/OPNSense-D94F00.svg?style=for-the-badge&logo=opnsense&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redisr&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 - ![MikroTik](https://img.shields.io/badge/MikroTik-FF5A02.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
 - ![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
