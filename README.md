@@ -16,13 +16,12 @@
 
 Hello and welcome! I'm a tech enthusiast with a passion for solving problems through code and building innovative digital solutions. My journey is fueled by curiosity and a strong drive to learn and grow in the ever-evolving world of technology.
 
-I am currently diving deeper into **Full Stack DevNetOps**—learning both front-end and back-end technologies, Network, Infra and more to become a well-rounded where I can design scalable, efficient, and secure systems.
+I am currently diving deeper into **DevNetOps**—learning both front-end and back-end technologies, Network, Infra and more to become a well-rounded, efficient, and secure systems.
 
 Here are some quick facts about me:
 - 💡 I thrive on **learning new skills** and applying them to real-world challenges. Every line of code I write is a step forward in my journey.
 - 🔭 **Currently working on:** Personal projects that involve web development, automation, and enhancing my skills in Laravel.
 - 🌱 **Learning Areas:** 
-  - **Full Stack Development:** Understanding the intricacies of front-end frameworks and back-end logic.
   - **Networking:** Configuring networks, setting up MikroTik routers, and optimizing performance.
   - **DevOps Practices:** Automating workflows, learning Docker, and exploring CI/CD pipelines.
 - 📫 **How to reach me:** [Email Me](mailto:Hpipone@proton.me) | [Telegram](https://t.me/Hpipone) | [LinkedIn](https://linkedin.com/in/maherindiarto)
@@ -42,17 +41,20 @@ Here are some quick facts about me:
 
 ### My Main OS
 - ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 
-### My Main Databases I Use
+### Database
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+- ![SQL Server Management Studio (SSMS) 22]
 
 ### Monitoring Microservice or Service
 - ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 - ![Grafana](https://img.shields.io/badge/Grafana-FFA500.svg?style=for-the-badge&logo=grafana&logoColor=white)
 - ![Promtail](https://img.shields.io/badge/Promtail&Loki-F15B2A.svg?style=for-the-badge&logo=loki&logoColor=white)
-- ELK Stack
+- ![ELK Stack]
+- ![Kibana]
 
 ### My Web Infra and Network
 - ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -62,6 +64,19 @@ Here are some quick facts about me:
 - ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 - ![MikroTik](https://img.shields.io/badge/MikroTik-FF5A02.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
 - ![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+- ![AFFINE]
+- ![N8N]
+- ![Wazuh]
+- ![Jmeter]
+- ![Skudonet]
+- ![ModSecurity]
+- ![CloudPanel]
+- ![Pterodactyl]
+
+<!-- ### Physical (Hardware) -->
+<!-- - ![Router Asus RT-AC1200] -->
+<!-- - ![Aruba Instant ON] -->
+<!-- - ![Hillstone] -->
 
 ---
 
