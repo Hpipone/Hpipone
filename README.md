@@ -47,13 +47,13 @@ Here are some quick facts about me:
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-- ![SQL Server Management Studio (SSMS) 22](https://img.shields.io/badge/sql-1E1E1E.svg?style=for-the-badge&logo=sqlserver&logoColor=white)
+- ![SQL Server Management Studio (SSMS) 22](https://img.shields.io/badge/sql-1E1E1E.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### Monitoring Microservice or Service
 - ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 - ![Grafana](https://img.shields.io/badge/Grafana-FFA500.svg?style=for-the-badge&logo=grafana&logoColor=white)
-- ![Promtail](https://img.shields.io/badge/Promtail-F15B2A.svg?style=for-the-badge&logo=promtail&logoColor=white)
+- ![Promtail](https://img.shields.io/badge/Promtail-F15B2A.svg?style=for-the-badge&logo=Promtail&logoColor=white)
 - ![ELK Stack](https://img.shields.io/badge/Elastic-1E1E1E.svg?style=for-the-badge&logo=elastic&logoColor=white)
 - ![Kibana](https://img.shields.io/badge/Kibana-1E2CFA.svg?style=for-the-badge&logo=kibana&logoColor=white)
 
@@ -62,17 +62,17 @@ Here are some quick facts about me:
 - ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 - ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 - ![OPNSense](https://img.shields.io/badge/OPNSense-D94F00.svg?style=for-the-badge&logo=opnsense&logoColor=white)
-- ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redisr&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 - ![MikroTik](https://img.shields.io/badge/MikroTik-FF5A02.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
 - ![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 - ![AFFINE](https://img.shields.io/badge/Affine-FFFFFF.svg?style=for-the-badge&logo=affine&logoColor=black)
 - ![N8N](https://img.shields.io/badge/N8N-FF4949.svg?style=for-the-badge&logo=n8n&logoColor=white)
-- ![Wazuh](https://img.shields.io/badge/Wazuh-007AFF.svg?style=for-the-badge&logo=wazuh&logoColor=white)
-- ![Jmeter](https://img.shields.io/badge/Jmeter-F69923.svg?style=for-the-badge&logo=jmeter&logoColor=white)
-- ![Skudonet](https://img.shields.io/badge/Skudonet-0e86d4.svg?style=for-the-badge&logo=skudonet&logoColor=white)
-- ![ModSecurity](https://img.shields.io/badge/Modsecurity-1d3353.svg?style=for-the-badge&logo=modsecurity&logoColor=white)
-- ![CloudPanel](https://img.shields.io/badge/Cloudpanel-8fb9d4.svg?style=for-the-badge&logo=cloudpanel&logoColor=white)
+- ![Wazuh](https://img.shields.io/badge/Wazuh-007AFF.svg?style=for-the-badge&logo=Wazuh&logoColor=white)
+- ![Jmeter](https://img.shields.io/badge/Jmeter-F69923.svg?style=for-the-badge&logo=Jmeter&logoColor=white)
+- ![Skudonet](https://img.shields.io/badge/Skudonet-0e86d4.svg?style=for-the-badge&logo=Skudonet&logoColor=white)
+- ![ModSecurity](https://img.shields.io/badge/Modsecurity-1d3353.svg?style=for-the-badge&logo=Modsecurity&logoColor=white)
+- ![CloudPanel](https://img.shields.io/badge/Cloudpanel-8fb9d4.svg?style=for-the-badge&logo=Cloudpanel&logoColor=white)
 - ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-46B883.svg?style=for-the-badge&logo=pterodactyl&logoColor=white)
 
 
