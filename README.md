@@ -41,20 +41,22 @@ Here are some quick facts about me:
 
 ### My Main OS
 - ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FFFFFF.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Database
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-- ![SQL Server Management Studio (SSMS) 22]
+- ![SQL Server Management Studio (SSMS) 22](https://img.shields.io/badge/sql-1E1E1E.svg?style=for-the-badge&logo=sql&logoColor=white)
+
 
 ### Monitoring Microservice or Service
 - ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 - ![Grafana](https://img.shields.io/badge/Grafana-FFA500.svg?style=for-the-badge&logo=grafana&logoColor=white)
-- ![Promtail](https://img.shields.io/badge/Promtail&Loki-F15B2A.svg?style=for-the-badge&logo=loki&logoColor=white)
-- ![ELK Stack]
-- ![Kibana]
+- ![Promtail](https://img.shields.io/badge/Promtail-F15B2A.svg?style=for-the-badge&logo=loki&logoColor=white)
+- ![ELK Stack](https://img.shields.io/badge/Elastic-1E1E1E.svg?style=for-the-badge&logo=loki&logoColor=white)
+- ![Kibana](https://img.shields.io/badge/Kibana-1E2CFA.svg?style=for-the-badge&logo=loki&logoColor=white)
+
 
 ### My Web Infra and Network
 - ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -64,14 +66,15 @@ Here are some quick facts about me:
 - ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 - ![MikroTik](https://img.shields.io/badge/MikroTik-FF5A02.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
 - ![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
-- ![AFFINE]
-- ![N8N]
-- ![Wazuh]
-- ![Jmeter]
-- ![Skudonet]
-- ![ModSecurity]
-- ![CloudPanel]
-- ![Pterodactyl]
+- ![AFFINE](https://img.shields.io/badge/Affine-FFFFFF.svg?style=for-the-badge&logo=proxmox&logoColor=black)
+- ![N8N](https://img.shields.io/badge/N8N-FF4949.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+- ![Wazuh](https://img.shields.io/badge/Wazuh-007AFF.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+- ![Jmeter](https://img.shields.io/badge/Jmeter-F69923.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+- ![Skudonet](https://img.shields.io/badge/Skudonet-0e86d4.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+- ![ModSecurity](https://img.shields.io/badge/Modsecurity-1d3353.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+- ![CloudPanel](https://img.shields.io/badge/Cloudpanel-8fb9d4.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+- ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-46B883.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+
 
 <!-- ### Physical (Hardware) -->
 <!-- - ![Router Asus RT-AC1200] -->
