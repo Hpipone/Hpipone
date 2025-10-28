@@ -69,10 +69,10 @@ Here are some quick facts about me:
 - ![AFFINE](https://img.shields.io/badge/Affine-FFFFFF.svg?style=for-the-badge&logo=affine&logoColor=black)
 - ![N8N](https://img.shields.io/badge/N8N-FF4949.svg?style=for-the-badge&logo=n8n&logoColor=white)
 - ![Wazuh](https://img.shields.io/badge/Wazuh-007AFF.svg?style=for-the-badge&logo=Wazuh&logoColor=white)
-- ![Jmeter](https://img.shields.io/badge/Jmeter-F69923.svg?style=for-the-badge&logo=Jmeter&logoColor=white)
-- ![Skudonet](https://img.shields.io/badge/Skudonet-0e86d4.svg?style=for-the-badge&logo=Skudonet&logoColor=white)
-- ![ModSecurity](https://img.shields.io/badge/Modsecurity-1d3353.svg?style=for-the-badge&logo=Modsecurity&logoColor=white)
-- ![CloudPanel](https://img.shields.io/badge/Cloudpanel-8fb9d4.svg?style=for-the-badge&logo=Cloudpanel&logoColor=white)
+- ![Jmeter](https://img.shields.io/badge/Jmeter-F69923.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+- ![Skudonet](https://img.shields.io/badge/Skudonet-0e86d4.svg?style=for-the-badge&logo=zevenet&logoColor=white)
+- ![ModSecurity](https://img.shields.io/badge/Modsecurity-1d3353.svg?style=for-the-badge&logo=ModSecurity&logoColor=white)
+- ![CloudPanel](https://img.shields.io/badge/Cloudpanel-8fb9d4.svg?style=for-the-badge&logo=CloudPanel&logoColor=white)
 - ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-46B883.svg?style=for-the-badge&logo=pterodactyl&logoColor=white)
 
 
