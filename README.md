@@ -89,7 +89,7 @@ Here are some quick facts about me:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hpipone&show_icons=true&theme=vue-dark&hide=issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hpipone&layout=compact&theme=vue-dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=highcontrast&hide_border=true)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=highcontrast&hide_border=true) -->
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hpipone&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A)
