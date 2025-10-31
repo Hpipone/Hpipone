@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Hpipone&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Hpipone)
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=Hpipone&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Hpipone) -->
 
 # Welcome to My GitHub Profile! 👨‍💻✨
 
