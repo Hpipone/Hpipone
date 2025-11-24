@@ -57,21 +57,21 @@ Here are some quick facts about me:
 
 
 ### My Web Infra and Network
-- ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-- ![OPNSense](https://img.shields.io/badge/OPNSense-D94F00.svg?style=for-the-badge&logo=opnsense&logoColor=white)
-- ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-- ![MikroTik](https://img.shields.io/badge/MikroTik-FF5A02.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
-- ![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
-- ![AFFINE](https://img.shields.io/badge/Affine-FFFFFF.svg?style=for-the-badge&logo=affine&logoColor=black)
-- ![N8N](https://img.shields.io/badge/N8N-FF4949.svg?style=for-the-badge&logo=n8n&logoColor=white)
-- ![Wazuh](https://img.shields.io/badge/Wazuh-007AFF.svg?style=for-the-badge&logo=Wazuh&logoColor=white)
-- ![Jmeter](https://img.shields.io/badge/Jmeter-F69923.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-- ![Skudonet](https://img.shields.io/badge/Skudonet-0e86d4.svg?style=for-the-badge&logo=zevenet&logoColor=white)
-- ![ModSecurity](https://img.shields.io/badge/Modsecurity-1d3353.svg?style=for-the-badge&logo=ModSecurity&logoColor=white)
-- ![CloudPanel](https://img.shields.io/badge/Cloudpanel-8fb9d4.svg?style=for-the-badge&logo=CloudPanel&logoColor=white)
-- ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-46B883.svg?style=for-the-badge&logo=pterodactyl&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![OPNSense](https://img.shields.io/badge/OPNSense-D94F00.svg?style=for-the-badge&logo=opnsense&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-FF5A02.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+![AFFINE](https://img.shields.io/badge/Affine-FFFFFF.svg?style=for-the-badge&logo=affine&logoColor=black)
+![N8N](https://img.shields.io/badge/N8N-FF4949.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-007AFF.svg?style=for-the-badge&logo=Wazuh&logoColor=white)
+![Jmeter](https://img.shields.io/badge/Jmeter-F69923.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![Skudonet](https://img.shields.io/badge/Skudonet-0e86d4.svg?style=for-the-badge&logo=zevenet&logoColor=white)
+![ModSecurity](https://img.shields.io/badge/Modsecurity-1d3353.svg?style=for-the-badge&logo=ModSecurity&logoColor=white)
+![CloudPanel](https://img.shields.io/badge/Cloudpanel-8fb9d4.svg?style=for-the-badge&logo=CloudPanel&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-46B883.svg?style=for-the-badge&logo=pterodactyl&logoColor=white)
 
 
 <!-- ### Physical (Hardware) -->
