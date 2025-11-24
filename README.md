@@ -134,15 +134,13 @@ If you like my work and want to support my journey, consider contributing via Ko
 
 <div align="center">
 
-[![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://Ko-fi.com/hpipone)    
-
+[![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://Ko-fi.com/hpipone)
 </div>
 
 ---
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Hpipone&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Hpipone)
-
 <div align="center">
 
-[![Footer Image](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![Footer Image](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 </div>
