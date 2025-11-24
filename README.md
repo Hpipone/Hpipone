@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- [![Profile Views](https://komarev.com/ghpvc/?username=Hpipone&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Hpipone) -->
 
 # Welcome to My GitHub Profile! 👨‍💻✨
 
@@ -134,11 +133,12 @@ Let’s connect and collaborate! I’d love to hear from you and discuss how we 
 
 ## ☕ Support My Work
 
-If you like my work and want to support my journey, consider contributing via PayPal. Every bit helps and encourages me to keep creating awesome things! 💖
+If you like my work and want to support my journey, consider contributing via Ko-fi. Every bit helps and encourages me to keep creating awesome things! 💖
 
 <div align="center">
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C.svg?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maherjojo)
+[![Ko-fi](https://img.shields.io/badge/Ko-fi-00457C.svg?style=for-the-badge&logo=kofi&logoColor=white)](Ko-fi.com/hpipone)    
+[![Profile Views](https://komarev.com/ghpvc/?username=Hpipone&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Hpipone)
 
 </div>
 
