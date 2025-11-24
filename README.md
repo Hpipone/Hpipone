@@ -23,7 +23,6 @@ Here are some quick facts about me:
 - 🌱 **Learning Areas:** 
   - **Networking:** Configuring networks, setting up MikroTik routers, and optimizing performance.
   - **DevOps Practices:** Automating workflows, learning Docker, and exploring CI/CD pipelines.
-- 📫 **How to reach me:** [Email Me](mailto:Hpipone@proton.me) | [Telegram](https://t.me/Hpipone) | [LinkedIn](https://linkedin.com/in/maherindiarto)
 - ⚡ **Fun fact:** I believe coding is like solving puzzles or math it’s challenging yet incredibly rewarding!
 
 ---
@@ -137,9 +136,12 @@ If you like my work and want to support my journey, consider contributing via Ko
 
 <div align="center">
 
-[![Ko-fi](https://img.shields.io/badge/Ko-fi-00457C.svg?style=for-the-badge&logo=kofi&logoColor=white)](Ko-fi.com/hpipone)    
-[![Profile Views](https://komarev.com/ghpvc/?username=Hpipone&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Hpipone)
+[![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://Ko-fi.com/hpipone)    
+[![Profile Views](https://komarev.com/ghpvc/?username=Hpipone&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Hpipone)
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=Hpipone&style=for-the-badge">
+</a>
 </div>
 
 ---
