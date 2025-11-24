@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # Welcome to My GitHub Profile! 👨‍💻✨
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7BB36&center=true&vCenter=true&width=600&lines=Welcome+to+My+Github+Profile;I%27m+Working+On+Building+Up+My+Skills;I+Like+Code%2C+Gaming%2C+and+Many+More)
@@ -30,30 +29,30 @@ Here are some quick facts about me:
 ## 🛠️ Skills & Tools
 
 ### Main IDE for Linux/Windows
-- ![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
 ### Tools & Frameworks I Been Using
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### My Main OS
-- ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FFFFFF.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFFFFF.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Database
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
-- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-- ![SQL Server Management Studio (SSMS) 22](https://img.shields.io/badge/sql-1E1E1E.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL Server Management Studio (SSMS) 22](https://img.shields.io/badge/sql-1E1E1E.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### Monitoring Microservice or Service
-- ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-- ![Grafana](https://img.shields.io/badge/Grafana-FFA500.svg?style=for-the-badge&logo=grafana&logoColor=white)
-- ![Promtail](https://img.shields.io/badge/Promtail-F15B2A.svg?style=for-the-badge&logo=Promtail&logoColor=white)
-- ![ELK Stack](https://img.shields.io/badge/Elastic-1E1E1E.svg?style=for-the-badge&logo=elastic&logoColor=white)
-- ![Kibana](https://img.shields.io/badge/Kibana-1E2CFA.svg?style=for-the-badge&logo=kibana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-FFA500.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Promtail](https://img.shields.io/badge/Promtail-F15B2A.svg?style=for-the-badge&logo=Promtail&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/Elastic-1E1E1E.svg?style=for-the-badge&logo=elastic&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-1E2CFA.svg?style=for-the-badge&logo=kibana&logoColor=white)
 
 
 ### My Web Infra and Network
@@ -129,21 +128,13 @@ Let’s connect and collaborate! I’d love to hear from you and discuss how we 
 </div>
 
 ---
-
 ## ☕ Support My Work
-
 If you like my work and want to support my journey, consider contributing via Ko-fi. Every bit helps and encourages me to keep creating awesome things! 💖
-
 <div align="center">
-
 [![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://Ko-fi.com/hpipone)    
-
 </div>
-
 ---
 [![Profile Views](https://komarev.com/ghpvc/?username=Hpipone&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Hpipone)
 <div align="center">
-
 ![Footer Image](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-
 </div>
