@@ -79,34 +79,13 @@
 </div>
 
 ---
-
-## 🎯 My Journey & Goals
-
-I started my journey as a curious learner, exploring the fascinating world of technology. 
-Today, I am on a mission to build a strong foundation in **Full Stack Development** and **Networking** while continuously pushing the boundaries of what I can achieve.
-
-### Goals for the Future
-- **Contribute to Open Source:** Share my knowledge and efforts with the developer community worldwide.
-
----
-
-## 🌟 Highlights & Achievements
-
-- 🌐 Configured and optimized network setups for better performance and security.
-- 🤖 Automated workflows and processes to save time and improve productivity.
-
----
-
-## 🤝 Connect with Me
-
-Let’s connect and collaborate! I’d love to hear from you and discuss how we can work together on exciting projects:
-
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hpipone)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hpipone@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maherindiarto)
-
+<!-- <a href="https://www.instagram.com/H"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
+<a href="https://t.me/Hpipone"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="mailto:Hpipone@proton.me"><img src="https://img.shields.io/badge/Email-2CA5E0?style=for-the-badge&logo=Email&logoColor=white"/></a>
 </div>
 
 ---
