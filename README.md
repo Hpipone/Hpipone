@@ -76,12 +76,13 @@
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hpipone&show_icons=true&theme=vue-dark&hide=issues) -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hpipone&layout=compact&theme=vue-dark) -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=highcontrast&hide_border=true) -->
-
-### 🏆 GitHub Trophies
+---
+## 🏆 GitHub Trophies
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hpipone&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A) -->
 <img src="https://github-trophies.vercel.app/?username=Hpipone&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1" width="70%"/>
 
-### 🐍 GitHub Contribution Snake
+---
+## 🐍 GitHub Contribution Snake
 <!-- ![Contribution Snake Animation](https://hpipone.github.io/contrib-snake/snake.svg) -->
 
   <picture>
@@ -92,15 +93,6 @@
 
 </div>
 
----
-<div align="center">
-
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hpipone) -->
-<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hpipone@proton.me) -->
-<!-- <a href="https://www.instagram.com/H"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
-<a href="https://t.me/Hpipone"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="mailto:Hpipone@proton.me"><img src="https://img.shields.io/badge/Email-2CA5E0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
 
 ---
 
@@ -108,6 +100,11 @@
 
 <div align="center">
 
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hpipone) -->
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hpipone@proton.me) -->
+<!-- <a href="https://www.instagram.com/H"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
+<a href="https://t.me/Hpipone"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="mailto:Hpipone@proton.me"><img src="https://img.shields.io/badge/Email-D14836style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://Ko-fi.com/hpipone)
 </div>
 <table>
