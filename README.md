@@ -33,7 +33,7 @@
   <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50"/></a>
   <a href="https://www.postman.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/></a>
   <a href="https://prometheus.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="50"/></a>
-  <a href="https://www.proxmox.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" width="50"/></a>
+  <!-- <a href="https://www.proxmox.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" width="50"/></a> -->
   <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/></a>
   <a href="https://redis.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50"/></a>
   <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50"/></a>
@@ -54,7 +54,7 @@
 ![ModSecurity](https://img.shields.io/badge/Modsecurity-1d3353.svg?style=for-the-badge&logo=ModSecurity&logoColor=white)
 ![CloudPanel](https://img.shields.io/badge/Cloudpanel-8fb9d4.svg?style=for-the-badge&logo=CloudPanel&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-46B883.svg?style=for-the-badge&logo=pterodactyl&logoColor=white)
-
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 
 <!-- ### Physical (Hardware) -->
 <!-- - ![Router Asus RT-AC1200] -->
