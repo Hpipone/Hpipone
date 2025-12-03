@@ -73,7 +73,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hpipone&theme=tokyonight" width="35%"/>
 <br>
 <img src="https://streak-stats.demolab.com?user=Hpipone&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="60%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broman0x&theme=tokyonight" width="50%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hpipone&theme=tokyonight" width="80%"/>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hpipone&show_icons=true&theme=vue-dark&hide=issues) -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hpipone&layout=compact&theme=vue-dark) -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=highcontrast&hide_border=true) -->
