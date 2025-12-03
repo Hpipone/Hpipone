@@ -66,14 +66,18 @@
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hpipone&data=followers,repositories,stars,commits)]
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hpipone&show_icons=true&theme=vue-dark&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hpipone&layout=compact&theme=vue-dark)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hpipone&data=followers,repositories,stars,commits&theme=darkmode)]
+<img src="https://github-stats-alpha.vercel.app/api?username=Hpipone&cc=000&tc=fff&ic=fff&bc=000" width="25%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hpipone&theme=tokyonight" width="25%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hpipone&theme=tokyonight" width="25%"/>
+<img src="https://streak-stats.demolab.com?user=Hpipone&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="25%"/>
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hpipone&show_icons=true&theme=vue-dark&hide=issues) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hpipone&layout=compact&theme=vue-dark) -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=highcontrast&hide_border=true) -->
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hpipone&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A)
+<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hpipone&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A) -->
+<img src="https://streak-stats.demolab.com?user=Hpipone&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="50%"/>
 
 ### 🐍 GitHub Contribution Snake
 ![Contribution Snake Animation](https://hpipone.github.io/contrib-snake/snake.svg)
