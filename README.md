@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- # Welcome to My GitHub Profile! 👨‍💻✨ -->
-<div class="tenor-gif-embed" data-postid="15374592095658975433" data-share-method="host" data-aspect-ratio="1.1422" data-width="100%"><a href="https://tenor.com/view/america-ya-gif-15374592095658975433">America Ya GIF</a>from <a href="https://tenor.com/search/america+ya-gifs">America Ya GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/view/america-ya-gif-15374592095658975433.gif">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7BB36&center=true&vCenter=true&width=600&lines=Welcome+to+My+Github+Profile;I%27m+Working+On+Building+Up+My+Skills;I+Like+Code%2C+Gaming%2C+and+Many+More)
 
