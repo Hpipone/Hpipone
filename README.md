@@ -108,7 +108,7 @@
 </div>
 <table>
     <tr>
-      <td align="center" style=" background-size: cover; padding: 20px; border-radius: 10px;">
+      <td align="center" style=" background-size: cover; padding: 30px; border-radius: 10px;">
         <i style="font-size: 42px; font-weight: bold;">
           "Kemungkinan menang hanyalah 0% saat semua pemain menyerah. 
             Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%.
