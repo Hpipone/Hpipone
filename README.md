@@ -67,23 +67,27 @@
 <div align="center">
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hpipone&data=followers,repositories,stars,commits&theme=darkmode)
-<img src="https://github-stats-alpha.vercel.app/api?username=Hpipone&cc=000&tc=fff&ic=fff&bc=000" width="50%"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=Hpipone&cc=000&tc=fff&ic=fff&bc=000" width="65%"/>
 <br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hpipone&theme=tokyonight" width="50%"/>
-<br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hpipone&theme=tokyonight" width="50%"/>
 <br>
-<img src="https://streak-stats.demolab.com?user=Hpipone&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="50%"/>
+<img src="https://streak-stats.demolab.com?user=Hpipone&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="60%"/>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hpipone&show_icons=true&theme=vue-dark&hide=issues) -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hpipone&layout=compact&theme=vue-dark) -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=highcontrast&hide_border=true) -->
 
 ### 🏆 GitHub Trophies
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hpipone&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A) -->
-<img src="https://streak-stats.demolab.com?user=Hpipone&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="50%"/>
-
+    <img src="https://github-trophies.vercel.app/?username=broman0x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1" width="50%"/>
 ### 🐍 GitHub Contribution Snake
-![Contribution Snake Animation](https://hpipone.github.io/contrib-snake/snake.svg)
+<!-- ![Contribution Snake Animation](https://hpipone.github.io/contrib-snake/snake.svg) -->
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  </picture>
 
 </div>
 
@@ -100,13 +104,29 @@
 ---
 
 ## ☕ Support My Work
-If you like my work and want to support my journey, consider contributing via Ko-fi. Every bit helps and encourages me to keep creating awesome things! 💖
 
 <div align="center">
 
 [![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://Ko-fi.com/hpipone)
 </div>
-
+<table>
+    <tr>
+      <td align="center" style=" background-size: cover; padding: 20px; border-radius: 10px;">
+        <i style="font-size: 18px; font-weight: bold;">
+          "Kemungkinan menang hanyalah 0% saat semua pemain menyerah."
+        </i>
+        <br><br>
+        <i style="font-size: 18px; font-weight: bold;">
+          "Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%."
+        </i>
+        <i style="font-size: 18px; font-weight: bold;">
+          "Itulah sebabnya aku tidak akan menyerah!"
+        </i>
+        <br><br>
+        ~ Tetsuya Kuroko
+      </td>
+    </tr>
+</table>
 ---
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Hpipone&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Hpipone)
