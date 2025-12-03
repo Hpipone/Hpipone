@@ -79,7 +79,8 @@
 
 ### 🏆 GitHub Trophies
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hpipone&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A) -->
-    <img src="https://github-trophies.vercel.app/?username=Hpipone&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1" width="50%"/>
+<img src="https://github-trophies.vercel.app/?username=Hpipone&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1" width="50%"/>
+
 ### 🐍 GitHub Contribution Snake
 <!-- ![Contribution Snake Animation](https://hpipone.github.io/contrib-snake/snake.svg) -->
 
@@ -113,15 +114,17 @@
     <tr>
       <td align="center" style=" background-size: cover; padding: 20px; border-radius: 10px;">
         <i style="font-size: 18px; font-weight: bold;">
-          "Kemungkinan menang hanyalah 0% saat semua pemain menyerah."
+          "Kemungkinan menang hanyalah 0% saat semua pemain menyerah. 
+            Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%.
+            Itulah sebabnya aku tidak akan menyerah!"
         </i>
-        <br><br>
-        <i style="font-size: 18px; font-weight: bold;">
-          "Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%."
-        </i>
-        <i style="font-size: 18px; font-weight: bold;">
-          "Itulah sebabnya aku tidak akan menyerah!"
-        </i>
+        <!-- <br><br> -->
+        <!-- <i style="font-size: 18px; font-weight: bold;"> -->
+        <!--   "Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%." -->
+        <!-- </i> -->
+        <!-- <i style="font-size: 18px; font-weight: bold;"> -->
+        <!--   "Itulah sebabnya aku tidak akan menyerah!" -->
+        <!-- </i> -->
         <br><br>
         ~ Tetsuya Kuroko
       </td>
