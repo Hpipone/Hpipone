@@ -66,6 +66,8 @@
 
 <div align="center">
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hpipone&data=followers,repositories,stars,commits)]
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hpipone&show_icons=true&theme=vue-dark&hide=issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hpipone&layout=compact&theme=vue-dark)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=highcontrast&hide_border=true) -->
@@ -81,11 +83,11 @@
 ---
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hpipone)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hpipone@proton.me)
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hpipone) -->
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hpipone@proton.me) -->
 <!-- <a href="https://www.instagram.com/H"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
 <a href="https://t.me/Hpipone"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="mailto:Hpipone@proton.me"><img src="https://img.shields.io/badge/Email-2CA5E0?style=for-the-badge&logo=Email&logoColor=white"/></a>
+<a href="mailto:Hpipone@proton.me"><img src="https://img.shields.io/badge/Email-2CA5E0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
