@@ -10,24 +10,33 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
+  <a href="https://developer.android.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="50"/></a>
   <!-- <a href="https://www.cloudflare.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" width="40"/></a> -->
-  <a href="https://archlinux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40"/></a>
-  <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.elastic.co"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg"  width="40"/></a>
-  <a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="40"/></a>
-  <a href="https://flutter.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40"/></a>
-  <a href="https://git-s-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://grafana.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" width="40"/></a>
-  <a href="https://laravel.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width="40"/></a>
-  <a  href="javascript:void(0)" onclick="location.href='https://www.netlify.com'"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="40"/></a>
-  <a href="https://neovim.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40"/></a>
-  <a href="https://nginx.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40"/></a>
-  <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
+  <a href="https://archlinux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="50"/></a>
+  <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50"/></a>
+  <a href="https://www.elastic.co"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg"  width="50"/></a>
+  <a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="50"/></a>
+  <a href="https://flutter.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50"/></a>
+  <a href="https://git-s-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/></a>
+  <a href="https://grafana.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" width="50"/></a>
+  <a href="https://laravel.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width="50"/></a>
+  <a  href="javascript:void(0)" onclick="location.href='https://www.netlify.com'"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="50"/></a>
+  <a href="https://neovim.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="50"/></a>
+  <a href="https://nginx.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="50"/></a>
+  <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/></a>
   <!-- <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a> -->
-  <a href="https://ohmyz.sh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" width="40"/></a>
-  <a href="https://git-s-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40"/></a>
+  <a href="https://ohmyz.sh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" width="50"/></a>
+  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50"/></a>
+  <a href="https://www.postman.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/></a>
+  <a href="https://prometheus.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="50"/></a>
+  <a href="https://www.proxmox.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" width="50"/></a>
+  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/></a>
+  <a href="https://redis.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50"/></a>
+  <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" width="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" width="50"/></a>
 </p>
 
 ## 🛠️ Skills & Tools
