@@ -76,12 +76,11 @@
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hpipone&show_icons=true&theme=vue-dark&hide=issues) -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hpipone&layout=compact&theme=vue-dark) -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=highcontrast&hide_border=true) -->
----
+
 ## 🏆 GitHub Trophies
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hpipone&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A) -->
 <img src="https://github-trophies.vercel.app/?username=Hpipone&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1" width="70%"/>
 
----
 ## 🐍 GitHub Contribution Snake
 <!-- ![Contribution Snake Animation](https://hpipone.github.io/contrib-snake/snake.svg) -->
 
@@ -94,7 +93,6 @@
 </div>
 
 
----
 
 ## ☕ Support My Work
 
