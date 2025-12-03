@@ -108,7 +108,7 @@
 [![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://Ko-fi.com/hpipone)
 </div>
 <table>
-    <tr>
+    <tr title="Kuroko no Basket">
       <td align="center" style=" background-size: cover; padding: 30px; border-radius: 10px;">
         <i style="font-size: 42px; font-weight: bold;">
           "Kemungkinan menang hanyalah 0% saat semua pemain menyerah. 
@@ -126,6 +126,33 @@
         ~ Tetsuya Kuroko
       </td>
     </tr>
+    <!-- <tr title="Fullmetal Alchemist: Brotherhood"> -->
+    <!--   <td align="center" style=" background-size: cover; padding: 30px; border-radius: 10px;"> -->
+    <!--     <i style="font-size: 42px; font-weight: bold;"> -->
+    <!--         "Nenek bilang "kalau kamu menangisi orang yang sudah meninggal, maka orang itu juga akan ikut sedih"." -->
+    <!--     </i> -->
+    <!--     <br><br> -->
+    <!--     ~ Winry Rockbell -->
+    <!--   </td> -->
+    <!-- </tr> -->
+    <!-- <tr title="Fate/Zero 2nd Season"> -->
+    <!--   <td align="center" style=" background-size: cover; padding: 30px; border-radius: 10px;"> -->
+    <!--     <i style="font-size: 42px; font-weight: bold;"> -->
+    <!--         "Jika kau melawan kejahatan atas kebencian terhadap kejahatan, maka amarah dan dendam itu hanya akan menimbulkan konflik baru." -->
+    <!--     </i> -->
+    <!--     <br><br> -->
+    <!--     ~ Saber -->
+    <!--   </td> -->
+    <!-- </tr> -->
+    <!-- <tr title="Spy x Family"> -->
+    <!--   <td align="center" style=" background-size: cover; padding: 30px; border-radius: 10px;"> -->
+    <!--     <i style="font-size: 42px; font-weight: bold;"> -->
+    <!--         "Manusia itu makhluk yang dangkal. Mereka hanya melihat (orang lain) berdasarkan gosip yang beredar di permukaan." -->
+    <!--     </i> -->
+    <!--     <br><br> -->
+    <!--     ~ Becky Blackbell -->
+    <!--   </td> -->
+    <!-- </tr> -->
 </table>
 
 ---
