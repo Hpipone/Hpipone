@@ -79,7 +79,7 @@
 
 ### 🏆 GitHub Trophies
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hpipone&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A) -->
-    <img src="https://github-trophies.vercel.app/?username=broman0x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1" width="50%"/>
+    <img src="https://github-trophies.vercel.app/?username=Hpipone&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1" width="50%"/>
 ### 🐍 GitHub Contribution Snake
 <!-- ![Contribution Snake Animation](https://hpipone.github.io/contrib-snake/snake.svg) -->
 
