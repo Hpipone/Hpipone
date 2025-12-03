@@ -102,7 +102,7 @@
 <!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hpipone@proton.me) -->
 <!-- <a href="https://www.instagram.com/H"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
 <a href="https://t.me/Hpipone"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="mailto:Hpipone@proton.me"><img src="https://img.shields.io/badge/Email-D14836style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:Hpipone@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://Ko-fi.com/hpipone)
 </div>
 <table>
