@@ -74,14 +74,14 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hpipone&theme=tokyonight" width="35%"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hpipone&theme=tokyonight" width="35%"/>
 <br>
-<img src="https://streak-stats.demolab.com?user=Hpipone&locale=jawa&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" width="70%"/>
+<!-- <img src="https://streak-stats.demolab.com?user=Hpipone&locale=jawa&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" width="70%"/> -->
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)     -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)    
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hpipone&theme=tokyonight" width="90%"/>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hpipone&show_icons=true&theme=vue-dark&hide=issues) -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hpipone&layout=compact&theme=vue-dark) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=tokyonight&hide_border=true)](https://github.com/Hpipone)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=tokyonight&hide_border=true)](https://github.com/Hpipone) -->
 
 ## 🏆 GitHub Trophies
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hpipone&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A) -->
