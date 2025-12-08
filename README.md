@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- # Welcome to My GitHub Profile! 👨‍💻✨ -->
-<img src="https://tenor.com/view/america-ya-gif-15374592095658975433.gif">
+<!-- <img src="https://tenor.com/view/america-ya-gif-15374592095658975433.gif"> -->
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7BB36&center=true&vCenter=true&width=600&lines=Welcome+to+My+Github+Profile;I%27m+Working+On+Building+Up+My+Skills;I+Like+Code%2C+Gaming%2C+and+Many+More)
 
@@ -68,12 +68,14 @@
 <div align="center">
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hpipone&data=followers,repositories,stars&theme=darkmode) 
+
 <img src="https://github-stats-alpha.vercel.app/api?username=Hpipone&cc=000&tc=fff&ic=fff&bc=000" width="70%"/>
 <br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hpipone&theme=tokyonight" width="35%"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hpipone&theme=tokyonight" width="35%"/>
 <br>
 <img src="https://streak-stats.demolab.com?user=Hpipone&locale=jawa&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" width="70%"/>
+
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)     -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hpipone&theme=tokyonight" width="90%"/>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hpipone&show_icons=true&theme=vue-dark&hide=issues) -->
