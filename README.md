@@ -67,7 +67,6 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=tokyonight)
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hpipone&data=followers,repositories,stars&theme=darkmode) 
 
 <img src="https://github-stats-alpha.vercel.app/api?username=Hpipone&cc=000&tc=fff&ic=fff&bc=000" width="70%"/>
