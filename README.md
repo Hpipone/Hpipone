@@ -74,7 +74,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hpipone&theme=tokyonight" width="35%"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hpipone&theme=tokyonight" width="35%"/>
 <br>
-<!-- <img src="https://streak-stats.demolab.com?user=Hpipone&locale=jawa&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" width="70%"/> -->
+<!-- <img src="https://streak-stats.demolab.com?user=Hpipone&locale=jv&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" width="70%"/> -->
+
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)     -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hpipone&theme=tokyonight" width="90%"/>
@@ -87,6 +88,7 @@
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hpipone&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A) -->
 <img src="https://github-trophies.vercel.app/?username=Hpipone&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1" width="90%"/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hpipone&theme=tokyonight)](https://git.io/streak-stats)
 ## 🐍 GitHub Contribution Snake
 <!-- ![Contribution Snake Animation](https://hpipone.github.io/contrib-snake/snake.svg) -->
 
