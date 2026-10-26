@@ -83,9 +83,9 @@
 
 </div>
 
-## ☕ Support My Work
-
 <div align="center">
+
+## ☕ Support My Work
 
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hpipone) -->
 <!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hpipone@proton.me) -->
@@ -142,7 +142,7 @@
     <!--     ~ Becky Blackbell -->
     <!--   </td> -->
     <!-- </tr> -->
-</table>
+<!-- </table> -->
 
 ---
 
