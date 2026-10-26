@@ -1,7 +1,10 @@
 <!-- # Welcome to My GitHub Profile! -->
 <!-- <img src="https://tenor.com/view/america-ya-gif-15374592095658975433.gif"> -->
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=700&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+My+Github+Profile;I%27m+Working+On+Building+Up+My+Skills;I+Like+Code%2C+Gaming%2C+and+Many+More)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=700&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+Hpipone+Github+Profile;I%27m+Working+On+Building+Up+My+Skills;I+Like+Code%2C+Gaming%2C+and+Many+More)
+
+</div>
 
 ## 🛠️ Skills & Tools
 
@@ -12,13 +15,13 @@
     <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,arch,bash,cloudflare,dart,discord,docker,elasticsearch,firebase,figma,github,git,grafana,kali,laravel,linux,lua,mint,neovim,netlify,nginx,postgres,postman,php,prometheus,py,raspberrypi,redis,supabase,tailwind,ubuntu,wordpress" />
 </a>
 
-<a href="https://developer.android.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="50"/></a>
-<a href="https://ohmyz.sh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" width="50"/></a>
+<!-- <a href="https://developer.android.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="50"/></a> -->
+<!-- <a href="https://ohmyz.sh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" width="50"/></a> -->
   <!-- <a href="https://www.proxmox.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" width="50"/></a> -->
-
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" width="50"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" width="50"/></a>
+<!---->
+<!-- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" width="50"/></a> -->
+<!-- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50"/></a> -->
+<!-- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" width="50"/></a> -->
 </p>
 
 ### My Web Infra and Network
@@ -47,10 +50,10 @@
 
 <div align="center">
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hpipone&data=followers,repositories,stars&theme=metropolis)
-
-<img src="https://github-stats-alpha.vercel.app/api?username=Hpipone&cc=000&tc=fff&ic=fff&bc=000" width="70%"/>
-<br>
+<!-- ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Hpipone&data=followers,repositories,stars&theme=metropolis) -->
+<!---->
+<!-- <img src="https://github-stats-alpha.vercel.app/api?username=Hpipone&cc=000&tc=fff&ic=fff&bc=000" width="70%"/> -->
+<!-- <br> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hpipone&theme=tokyonight" width="35%"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hpipone&theme=tokyonight" width="35%"/>
 <br>
@@ -93,14 +96,14 @@
 <a href="mailto:Hpipone@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://Ko-fi.com/hpipone)
 </div>
-<table>
-    <tr title="Kuroko no Basket">
-      <td align="center" style=" background-size: cover; padding: 30px; border-radius: 10px;">
-        <i style="font-size: 42px; font-weight: bold;">
-          "Kemungkinan menang hanyalah 0% saat semua pemain menyerah. 
-            Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%.
-            Itulah sebabnya aku tidak akan menyerah!"
-        </i>
+<!-- <table> -->
+<!--     <tr title="Kuroko no Basket"> -->
+<!--       <td align="center" style=" background-size: cover; padding: 30px; border-radius: 10px;"> -->
+<!--         <i style="font-size: 42px; font-weight: bold;"> -->
+<!--           "Kemungkinan menang hanyalah 0% saat semua pemain menyerah.  -->
+<!--             Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%. -->
+<!--             Itulah sebabnya aku tidak akan menyerah!" -->
+<!--         </i> -->
         <!-- <br><br> -->
         <!-- <i style="font-size: 18px; font-weight: bold;"> -->
         <!--   "Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%." -->
@@ -108,10 +111,10 @@
         <!-- <i style="font-size: 18px; font-weight: bold;"> -->
         <!--   "Itulah sebabnya aku tidak akan menyerah!" -->
         <!-- </i> -->
-        <br><br>
-        ~ Tetsuya Kuroko
-      </td>
-    </tr>
+    <!--     <br><br> -->
+    <!--     ~ Tetsuya Kuroko -->
+    <!--   </td> -->
+    <!-- </tr> -->
     <!-- <tr title="Fullmetal Alchemist: Brotherhood"> -->
     <!--   <td align="center" style=" background-size: cover; padding: 30px; border-radius: 10px;"> -->
     <!--     <i style="font-size: 42px; font-weight: bold;"> -->
@@ -143,7 +146,7 @@
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Hpipone&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Hpipone)
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=Hpipone&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Hpipone) -->
 <div align="center">
 
 ![Footer Image](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
