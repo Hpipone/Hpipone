@@ -24,7 +24,7 @@
 <!-- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" width="50"/></a> -->
 </p>
 
-<h3> align="center"> My Web Infra and Network</h3>
+<h3 align="center"> My Web Infra and Network</h3>
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![OPNSense](https://img.shields.io/badge/OPNSense-D94F00.svg?style=for-the-badge&logo=opnsense&logoColor=white)
